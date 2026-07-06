@@ -1,6 +1,6 @@
 # Hey there, I'm [Ahmed Hosssuin](https://yousefdergham.vercel.app/) 👋
 
-**Full-stack Web Developer · CS Student · Coffee Lover ☕**
+**frontend Web Developer · CS Student · Coffee Lover ☕**
 
 💼 **Current:** Full Stack Engineer at [Quran.Foundation](https://quran.foundation)
 
